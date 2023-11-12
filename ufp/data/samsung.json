@@ -1,0 +1,7 @@
+{
+	"vendor=Test|class=tablet": {
+		"TEST": [
+			"wifi4|probe:0,1,45,191,htcap:09ef,htagg:17,htmcs:0000ffff,vhtcap:039179b1,vhtrxmcs:0000fffa,vhttxmcs:0000fffa|assoc:0,1,33,36,45,70,127,191,221(0050f2,2),htcap:09a5,htagg:17,htmcs:0000ffff,vhtcap:039179b1,vhtrxmcs:0000fffa,vhttxmcs:0000fffa,txpow:0f00,extcap:04008880014010f4d02d"
+		]
+	}
+}
